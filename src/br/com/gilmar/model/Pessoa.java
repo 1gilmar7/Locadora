@@ -37,6 +37,4 @@ public class Pessoa {
     public String toString() {
         return "Pessoa{" + "codigo=" + codigo + ", nome=" + nome + ", endereco=" + endereco + '}';
     }
-    
-    
 }
